@@ -1,10 +1,10 @@
-### 磁铁开发部(Magnet Development Department)
-
 ![MSCMDD](https://mscphoto.pages.dev/img/CTXD.png)
 
-Magnet Development Department
+### 磁铁开发部(Magnet Development Department)
 
 ![磁铁开发部](https://github-readme-stats.xaoxuu.com/api?username=MSCMDD&count_private=true&show_icons=true)
+
+Magnet Development Department
 
 ### 简介 | Introduction
 
