@@ -1,6 +1,6 @@
 ### 磁铁开发部(Magnet Development Department)
 
-![MSCMDD](https://msc-a.netlify.app/medias/reward/wechat.png)
+![MSCMDD](https://mscphoto.pages.dev/img/CTXD.png)
 
 Magnet Development Department
 
