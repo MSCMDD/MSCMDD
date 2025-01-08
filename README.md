@@ -19,16 +19,16 @@ Magnet Development Department
 我们的组成：
 | 阶层 | 大约占比 |
 | --- | --- |
-| 初中 | 12% |
+| 初中 | 8% |
 | 技术 | 12% |
-| 高中 | 68% |
-| 大学 | 4% |
+| 高中 | 70% |
+| 大学 | 6% |
 | 其他 | 4 % |
 
 - 我们的Blog：https://mscaome.netlify.app
 - 大部分社员所在城市：辽宁 盘锦
 - 公社邮箱：MSCAoMe@outlook.com
-- 社员平均年龄：16岁
+- 社员平均年龄：17岁
 - 我们的BiliBili：https://space.bilibili.com/648267322
 
 The Magnet Students Community (MSC) is a student organization that is spontaneously organized and fully autonomous. The organization aims to provide students with a platform for independent innovation, communication, and practical experience, facilitating mutual learning and exchange among students.
@@ -41,14 +41,14 @@ Our Composition:
 
 | Level | Approximate Percentage |
 | --- | --- |
-| Middle School | 12% |
+| Middle School | 8% |
 | Technical | 12% |
-| High School | 68% |
-| University | 4% |
+| High School | 70% |
+| University | 6% |
 | Other | 4% |
 
 - Blog: [https://mscaome.netlify.app](https://mscaome.netlify.app)
 - Majority of members located in: Panjin, Liaoning
 - Organization email: MSCAoMe@outlook.com
-- Average age of members: 16 years old
+- Average age of members: 17 years old
 - BiliBili channel: [https://space.bilibili.com/648267322](https://space.bilibili.com/648267322)
