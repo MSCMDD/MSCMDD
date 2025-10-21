@@ -19,10 +19,10 @@ Magnet Development Department
 我们的组成：
 | 阶层 | 大约占比 |
 | --- | --- |
-| 初中 | 8% |
+| 初中 | 2% |
 | 技术 | 12% |
-| 高中 | 70% |
-| 大学 | 6% |
+| 高中 | 10% |
+| 大学 | 72% |
 | 其他 | 4 % |
 
 - 我们的Blog：https://mscaome.netlify.app
@@ -41,10 +41,10 @@ Our Composition:
 
 | Level | Approximate Percentage |
 | --- | --- |
-| Middle School | 8% |
+| Middle School | 2% |
 | Technical | 12% |
-| High School | 70% |
-| University | 6% |
+| High School | 10% |
+| University | 72% |
 | Other | 4% |
 
 - Blog: [https://mscaome.netlify.app](https://mscaome.netlify.app)
